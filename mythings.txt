@@ -1,2 +1,5 @@
 mobile
 earphones
+stationary
+clothes
+laptop
